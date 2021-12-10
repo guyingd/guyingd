@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly write articles on [guyinga.top](guyinga.top)
+- 📝 I regularly write articles on [http://guyinga.top/](guyinga.top)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
