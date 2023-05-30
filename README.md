@@ -1,6 +1,6 @@
+<img src="https://jishu.vercel.app/api/counter?name=guyingd" />
 <h1 align="center">Hi 👋, I'm 孤影</h1>
 <h3 align="center">Enthusiastic front-end developers from China<br>QQ:2739218253<br>QQ群:663439636</h3>
-![](https://jishu.vercel.app/api/counter?name=guyingd)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyingd&label=Profile%20views&color=0e75b6&style=flat" alt="guyingd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guyingd" alt="guyingd" /></a> </p>
